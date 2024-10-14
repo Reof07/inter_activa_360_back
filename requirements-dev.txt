@@ -1,0 +1,11 @@
+# Dependencias para desarrollo
+-r requirements.txt
+pytest
+pytest-asyncio
+httpx
+pytest-cov
+mypy
+black
+isort
+python-dotenv
+pydantic-settings
